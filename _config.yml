@@ -32,6 +32,30 @@ markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
+  
+  
+defaults:
+    - 
+        scope:
+            path: "_posts"
+            type: "posts"
+        values:
+            layout: "post"
+    - 
+        scope:
+            path: "."
+            type: "pages"
+        values:
+            layout: "page"
+    -   
+        scope:
+            path: ""
+        values:
+            author: "Junhao Hu"
+            
+    
+        
+# Each time config_yml is modified, you have to restart the jekyll server to see the effect
 
 # Exclude from processing.
 # The following items will not be processed, by default.
