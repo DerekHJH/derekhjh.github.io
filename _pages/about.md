@@ -10,7 +10,7 @@ redirect_from:
 
 Hooray~ you caught me! I am Junhao Hu, a first-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/).
 
-My research is in the intersection of machine learning and software engineering. Specifically, I am currently focusing on Code Generation and Big Code Model Testing.
+My research is in the intersection of machine learning and software engineering. Specifically, I am currently focusing on Code Generation and Big Code Model Testing. If you are also interested in those topics and want to work something out together, please do not hesitate to contact me. 
 
 I got my bachelor's degree from [Kuang Yaming Honors School, Nanjing University](https://dii.nju.edu.cn/) in 2022, where I did research on Compilation Resource Predicion, advised by Prof. [Yanyan Jiang](https://jyywiki.cn/).
 
