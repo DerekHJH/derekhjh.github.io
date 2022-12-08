@@ -16,6 +16,6 @@ Recommended citation: Your Name, You. (2022). "Coming Out Soon." <i>Journal 1</i
 
 Thank you for clicking into this section (hug hug). But as a first-year Ph.D. student, I am still struggling to get my first paper published. I believe we shall soon see the first and then more publications in the near future. 
 
-Recently, I have two papers under review, which could not be listed here due to the double-blind priciple.
+Recently, I have two papers under review, which could not be listed here due to the double-blind principle.
 
 Yes, I do have my deepest faith in that. \\(>v<)/
