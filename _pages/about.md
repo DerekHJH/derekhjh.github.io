@@ -14,7 +14,7 @@ My research is in the intersection of programming language, software engineering
 
 I got my bachelor's degree from [Kuang Yaming Honors School, Nanjing University](https://dii.nju.edu.cn/) in 2022, where I did research on Compilation Resource Predicion, advised by Prof. [Yanyan Jiang](https://jyywiki.cn/).
 
-(You could see a bigger and clearer version of my photo in the upper left corner by clicking the right mouse button to open it in a new page. I am a relatively shy person, and that is why I wear sunglasses >_<)
+(BTW, you could see a bigger and clearer version of my photo in the upper left corner by clicking the right mouse button to open it in a new page. I am a relatively shy person, and that is why I wear sunglasses >_<)
 
 
 
