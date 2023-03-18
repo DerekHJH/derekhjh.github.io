@@ -15,3 +15,7 @@ redirect_from:
   * WeChat
   * Duties included: Code Completion Project
 
+* Spring 2023: Research Assistant
+  * WeChat
+  * Duties included: AI-assisted code generation and model optimiation (training/inference speed up).
+
