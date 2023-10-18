@@ -7,6 +7,7 @@ redirect_from:
   - /award
 ---
 
+- 2023 Excellent Social Work Award, Peking University
 - 2022 Outstanding Graduates, Nanjing University
 - 2022 Pacemaker to Excellent League Member, Nanjing University
 - 2021 Merit Student, Jiangsu Province

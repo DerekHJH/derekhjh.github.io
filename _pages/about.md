@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hooray~ you caught me! I am Junhao Hu, a first-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/).
+Hooray~ you caught me! I am Junhao Hu, a second-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/).
 
 My research is in the intersection of programming language, software engineering and machine learning. Specifically, I am currently focusing on AI-assisted code generation and testing/optimization of deep learning compilers. If you are also interested in those topics and want to work something out together, please do not hesitate to contact me. 
 

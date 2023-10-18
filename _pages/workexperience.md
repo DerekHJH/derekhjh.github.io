@@ -9,13 +9,13 @@ redirect_from:
 
 * Spring 2022: Research Assistant
   * WeChat
-  * Duties included: Compiling Resource Prediction Project Leader
+  * Duties included: the leader of *adaptive distributed build* Project
 
 * Fall 2022: Research Assistant
   * WeChat
-  * Duties included: Code Completion Project
+  * Duties included: the co-leader of *AI-assisted code generation* project
 
 * Spring 2023: Research Assistant
   * WeChat
-  * Duties included: AI-assisted code generation and model optimiation (training/inference speed up).
+  * Duties included: the leader of the *optimization of AI-assisted code generation model* project
 
