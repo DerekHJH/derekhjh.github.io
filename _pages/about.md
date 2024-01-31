@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hooray~ you caught me! I am Junhao Hu, a second-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/).
+Hooray~ you caught me! I am Junhao Hu, a second-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/) and Prof. [Chenxi Wang](https://wangchenxi7.github.io/home/).
 
-Previously, my research was at the intersection of programming language, software engineering, and machine learning. Specifically, I focused on AI-assisted code generation and testing/optimization of deep learning compilers.
-
-But! (Reluctant at first, but interested in the end.) My supervisor **strongly** advised me to do something more in-depth or more system-level instead of only scratching on the surface. And now, my research is at the intersection of programming language and cloud computing systems. Specifically, I focus on bringing the semantics embedded in the programming language (e.g., Rust, Go, or domain-specific languages) down to the system, reducing redundant synchronizations (e.g., communications to ensure cache coherence). If you are also interested in those topics and want to work something out together, please do not hesitate to contact me. 
+My research is at the intersection of programming language and cloud computing systems. Specifically, I focus on bringing the semantics embedded in the programming language (e.g., Rust, Go, or domain-specific languages) down to the system, reducing redundant synchronizations (e.g., communications to ensure cache coherence). If you are also interested in those topics and want to work something out together, please do not hesitate to contact me. 
 
 I got my bachelor's degree from [Kuang Yaming Honors School, Nanjing University](https://dii.nju.edu.cn/) in 2022, where I did research on Compilation Resource Prediction, advised by Prof. [Yanyan Jiang](https://jyywiki.cn/).
 
