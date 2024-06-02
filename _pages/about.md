@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hooray~ you caught me! I am Junhao Hu, a second-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/) and Prof. [Chenxi Wang](https://wangchenxi7.github.io/home/).
+Hooray~ you caught me! I am Junhao Hu, a second-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/). And I am lucky to work with and advised by Prof. [Chenxi Wang](https://wangchenxi7.github.io/home/) and [Yizhou Shan](http://lastweek.io/).
 
-My research is at the intersection of programming language and cloud computing systems. Specifically, I focus on bringing the semantics embedded in the programming language (e.g., Rust, Go, or domain-specific languages) down to the system, reducing redundant synchronizations (e.g., communications to ensure cache coherence). If you are also interested in those topics and want to work something out together, please do not hesitate to contact me. 
+My main research interests span across machine learning systems, distributed systems, disaggregated memory/storage systems, and their intersections. Recently, I am designing new systems and algorithms to improve the performance, efficiency, and reliability of Large Language Model (LLM) workloads on disaggregated memory/storage systems.
 
 I got my bachelor's degree from [Kuang Yaming Honors School, Nanjing University](https://dii.nju.edu.cn/) in 2022, where I did research on Compilation Resource Prediction, advised by Prof. [Yanyan Jiang](https://jyywiki.cn/).
 
