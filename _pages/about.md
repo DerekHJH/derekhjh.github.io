@@ -10,7 +10,7 @@ redirect_from:
 
 Hooray~ you caught me! I am Junhao Hu, a third-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/). And I am lucky to work with and advised by Prof. [Chenxi Wang](https://wangchenxi7.github.io/home/) and [Yizhou Shan](http://lastweek.io/).
 
-My main research interests span across machine learning systems, distributed systems, disaggregated memory/storage systems, and their intersections. Recently, I am designing new systems and algorithms to improve the performance, efficiency, and reliability of Large Language Model (LLM) workloads on disaggregated memory/storage systems.
+My main research interests span across machine learning algorithms and systems, software engineering, and their intersections. Recently, I am designing new systems and algorithms to improve the performance, efficiency, and reliability of Large Language Model (LLM) inference systems.
 
 I got my bachelor's degree from [Kuang Yaming Honors School, Nanjing University](https://dii.nju.edu.cn/) in 2022, where I did research on Compilation Resource Prediction, advised by Prof. [Yanyan Jiang](https://jyywiki.cn/).
 
