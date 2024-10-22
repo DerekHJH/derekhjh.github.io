@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+- <span style="color:#25528f">[preprint]</span> **Epic: Efficient Position-Independent Context Caching for Serving Large Language Models** <span style="color:#25528f"></span>\
+**Junhao Hu**, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
+In: arXiv preprint arXiv:2410.15332\
+\[[paper](https://arxiv.org/abs/2410.15332)\] \[[code]()\]
+
 - <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
 Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
 In: arXiv preprint arXiv:2406.17565\
