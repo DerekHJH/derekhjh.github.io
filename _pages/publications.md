@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-- <span style="color:#25528f">[preprint]</span> **Epic: Efficient Position-Independent Context Caching for Serving Large Language Models** <span style="color:#25528f"></span>\
+- <span style="color:#25528f">[preprint]</span> **EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models** <span style="color:#25528f"></span>\
 **Junhao Hu**, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
 In: arXiv preprint arXiv:2410.15332\
 \[[paper](https://arxiv.org/abs/2410.15332)\] \[[code]()\]
