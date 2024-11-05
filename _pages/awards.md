@@ -9,7 +9,7 @@ redirect_from:
 
 - 2024 《珠联校企，以启山林——四化融合校企交流平台》北京大学第三十二届“挑战杯”系列赛事五四青年科学奖竞赛一等奖, 北京大学
 - 2024 Best Presentation Award, Self-Breakthrough Award, Recognition Award of 2023 Tencent Rhino-Bird Research Elite Program (2023腾讯犀牛鸟精英人才个人风采奖，突破进取奖，优秀奖), Tencent Inc.
-- 2024 Luo Yuehua Scholarship (罗岳华奖学金), Peking University
+- 2024 Ubiquant Scholarship (九坤奖学金), Peking University
 - 2024 Excellent Research Award (优秀科研奖), Peking University
 - 2023 Excellent Social Work Award (社会工作奖), Peking University
 - 2022 Outstanding Graduates (优秀毕业生), Nanjing University
