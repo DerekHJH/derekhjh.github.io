@@ -30,8 +30,9 @@ Shiju Zhao, **Junhao Hu**, Rongxiao Huang, Jiaqi Zheng, Guihai Chen\
 In: arXiv preprint arXiv:2502.01960\
 \[[paper](https://arxiv.org/abs/2502.01960)\] \[[code]()\]
 
-- <span style="color:#25528f">[preprint]</span> **Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale** <span style="color:#25528f"></span>\
-Tiancheng Hu, Chenxi Wang, Ting Cao, Xinyu Xiao, Lei Chen, **Junhao Hu**, Hongliang Tian, Shoumeng Yan, Quan Chen, Huimin Cui, Tao Xie\
+- <span style="color:#25528f">[preprint]</span> **Hxxbird** <span style="color:#25528f"></span>\
+<!-- - <span style="color:#25528f">[preprint]</span> **Hummingbird: SLO-Oriented GPU Preemption at Microsecond-scale** <span style="color:#25528f"></span>\ -->
+<!-- Tiancheng Hu, Chenxi Wang, Ting Cao, Xinyu Xiao, Lei Chen, **Junhao Hu**, Hongliang Tian, Shoumeng Yan, Quan Chen, Huimin Cui, Tao Xie\ -->
 In: arXiv preprint arXiv:?\
 \[[paper]()\] \[[code]()\]
 
@@ -40,8 +41,9 @@ In: arXiv preprint arXiv:?\
 In: arXiv preprint arXiv:2501.14417\
 \[[paper](https://arxiv.org/pdf/2501.14417)\] \[[code]()\]
 
-- <span style="color:#25528f">[preprint]</span> **	Decoupled KV Cache Management for Stateful LLM Serving** <span style="color:#25528f"></span>\
-Yueyang Pan, Yangshen Deng, Wenrui Huang, Musa Unal, **Junhao Hu**, Yujie Ren, Yizhou Shan, Sanidhya Kashyap\
+- <span style="color:#25528f">[preprint]</span> **MegaLLM** <span style="color:#25528f"></span>\
+<!-- - <span style="color:#25528f">[preprint]</span> **Decoupled KV Cache Management for Stateful LLM Serving** <span style="color:#25528f"></span>\ -->
+<!-- Yueyang Pan, Yangshen Deng, Wenrui Huang, Musa Unal, **Junhao Hu**, Yujie Ren, Yizhou Shan, Sanidhya Kashyap\ -->
 In: arXiv preprint arXiv:?\
 \[[paper]()\] \[[code]()\]
 
