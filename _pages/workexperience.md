@@ -15,7 +15,7 @@ redirect_from:
 * Fall 2024: Research Assistant
   * Huawei Cloud
   * Duties included: Lead the *Positional-Independent Context Caching (PIC)* Project.
-  * Outcome: A paper submitted to ICML 2025.
+  * Outcome: A paper accepted by ICML 2025. A paper accepted by ATC 2025.
 
 * Fall 2023: Research Assistant
   * WeChat of Tencent Inc.
@@ -35,7 +35,7 @@ redirect_from:
 * Spring 2022: Research Assistant
   * WeChat of Tencent Inc.
   * Duties included: Lead the *adaptive distributed build* Project.
-  * Outcome: System prototype tha reduces 30% build costs (of time and hardware resource).
+  * Outcome: System prototype that reduces 30% build costs (of time and hardware resource).
 
 
 
