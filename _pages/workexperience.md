@@ -10,7 +10,7 @@ redirect_from:
 * Spring 2025: Research Assistant
   * Huawei Cloud
   * Duties included: Lead the *Reasoning-Aware Attention Sparsity (RaaS)* Project.
-  * Outcome: A paper submitted to ACL 2025.
+  * Outcome: A paper accepted by ACL 2025.
 
 * Fall 2024: Research Assistant
   * Huawei Cloud

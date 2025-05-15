@@ -20,7 +20,7 @@ Yuchen Liu, **Junhao Hu**, Yingdi Shan, Ge Li, Yanzhen Zou, Yihong Dong, Tao Xie
 In: arXiv preprint arXiv:2503.23791\
 \[[paper](https://arxiv.org/abs/2503.23791)\] \[[code]()\]
 
-- <span style="color:#25528f">[preprint]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f"></span>\
+- <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan\
 In: arXiv preprint arXiv:2502.11147\
 \[[paper](https://arxiv.org/abs/2502.11147)\] \[[code]()\]
