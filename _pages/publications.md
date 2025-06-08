@@ -23,7 +23,7 @@ In: arXiv preprint arXiv:2503.23791\
 - <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan\
 In: arXiv preprint arXiv:2502.11147\
-\[[paper](https://arxiv.org/abs/2502.11147)\] \[[code]()\]
+\[[paper](https://arxiv.org/abs/2502.11147)\] \[[code](https://github.com/DerekHJH/raas)\]
 
 - <span style="color:#25528f">[preprint]</span> **MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving** <span style="color:#25528f"></span>\
 Shiju Zhao, **Junhao Hu**, Rongxiao Huang, Jiaqi Zheng, Guihai Chen\
@@ -49,7 +49,7 @@ In: arXiv preprint arXiv:?\
 - <span style="color:#25528f">[ICML 2025]</span> **EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
 In: arXiv preprint arXiv:2410.15332\
-\[[paper](https://arxiv.org/abs/2410.15332)\] \[[code]()\]
+\[[paper](https://arxiv.org/abs/2410.15332)\] \[[code](https://github.com/DerekHJH/epic)\]
 
 - <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
 Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
