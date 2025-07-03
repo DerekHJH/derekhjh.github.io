@@ -22,7 +22,7 @@ In: arXiv preprint arXiv:2503.23791\
 
 - <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan\
-In: arXiv preprint arXiv:2502.11147\
+In: *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025*\
 \[[paper](https://arxiv.org/abs/2502.11147)\] \[[code](https://github.com/DerekHJH/raas)\]
 
 - <span style="color:#25528f">[preprint]</span> **MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving** <span style="color:#25528f"></span>\
@@ -37,7 +37,7 @@ In: arXiv preprint arXiv:?\
 
 - <span style="color:#25528f">[ATC 2025]</span> **DeepFlow: Serverless Large Language Model Serving at Scales** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Jiang Xu, Zhixia Liu, Yulong He, Yuetao Chen, Gengyuan Dan, Baoquan Zhang, Shining Wan, Zhiyu Dong, Hao Xu, Zhihao Ren, Jiang Liu, Jie Meng, Changhong Liu, Tao Xie, Dayun Lin, Qin Zhang, Yue Yu, Hao Feng, Xusheng Chen, Yizhou Shan\
-In: arXiv preprint arXiv:2501.14417\
+In: *Proceedings of the 2025 USENIX Annual Technical Conference, 2025*\
 \[[paper](https://arxiv.org/pdf/2501.14417)\] \[[code]()\]
 
 <!-- - <span style="color:#25528f">[preprint]</span> **Decoupled KV Cache Management for Stateful LLM Serving** <span style="color:#25528f"></span>\
@@ -48,7 +48,7 @@ In: arXiv preprint arXiv:?\
 
 - <span style="color:#25528f">[ICML 2025]</span> **EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
-In: arXiv preprint arXiv:2410.15332\
+In: *Proceedings of the 42nd International Conference on Machine Learning, 2025*\
 \[[paper](https://arxiv.org/abs/2410.15332)\] \[[code](https://github.com/DerekHJH/epic)\]
 
 - <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
@@ -70,11 +70,11 @@ In: arXiv preprint arXiv:2308.06898\
 - <span style="color:#25528f">[ASE 2023]</span> **Predicting Compilation Resources for Adaptive
 Build in an Industrial Setting** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Chaozheng Wang, Hailiang Huang, Huang Luo, Yu Jin, Yuetang Deng, Tao Xie\
-In: *The 38th IEEE/ACM International Conference on Automated Software Engineering, September 11-15, 2023, 1808-1813, Luxembourg*\
+In: *Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering, pages 1808-1813, 2023.*\
 \[[paper](https://ieeexplore.ieee.org/document/10298501)\] \[[code]()\]
 
 - <span style="color:#25528f">[ESEC/FSE 2023]</span> **How Practitioners Expect Code Completion?** <span style="color:#25528f">(CCF-A)</span>\
 Chaozheng Wang, **Junhao Hu**, Cuiyun Gao, Yu Jin, Tao Xie, Hailiang Huang, Zhenyu Lei, Yuetang Deng\
-In: *The 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, December 3 - 9, 2023, 1294-1306, San Francisco, California, USA*\
+In: *Proceedings of the 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pages 1294-1306, 2023.*\
 \[[paper](https://dl.acm.org/doi/10.1145/3611643.3616280)\] \[[code](https://github.com/DerekHJH/Awesome-Code-Completion-Paper)\]
 
