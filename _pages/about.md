@@ -14,6 +14,8 @@ My main research interests span across machine learning algorithms and systems, 
 
 I got my bachelor's degree from [Kuang Yaming Honors School, Nanjing University](https://dii.nju.edu.cn/) in 2022, where I did research on Compilation Resource Prediction, advised by Prof. [Yanyan Jiang](https://jyywiki.cn/).
 
+For more information, please hang around this website or refer to my [CV](https://derekhjh.com/files/cv.pdf).
+
 
 
 <!-- If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
