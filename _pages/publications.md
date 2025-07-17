@@ -57,9 +57,9 @@ In: arXiv preprint arXiv:2406.17565\
 \[[paper](https://arxiv.org/abs/2406.17565)\] \[[code]()\]
 
 
-- <span style="color:#25528f">[preprint]</span> **Directional Diffusion-Style Code Editing Pre-training** <span style="color:#25528f"></span>\
+- <span style="color:#25528f">[TSE 2025]</span> **Directional Diffusion-Style Code Editing Pre-training** <span style="color:#25528f">(CCF-A)</span>\
 Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Junhao Hu**, Yifan Zhao, Yizhou Chen, Mingxuan Zhu, Guoqing Wang, Lu Zhang\
-In: arXiv preprint arXiv:2501.12079\
+In: *Transactions of Software Engineering, 2025*\
 \[[paper](https://arxiv.org/abs/2501.12079)\] \[[code]()\]
 
 - <span style="color:#25528f">[preprint]</span> **Cupcleaner: A data cleaning approach for comment updating** <span style="color:#25528f"></span>\
