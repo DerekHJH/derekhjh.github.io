@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /award
 ---
-- 2025 China Institute of Electronics – Tencent PhD Research Incentive Program (Hunyuan LLM Track)
+- 2025 Hunyuan Fellowship (混元学者), Tencent Inc.
 - 2024 《珠联校企，以启山林——四化融合校企交流平台》北京大学第三十二届“挑战杯”系列赛事五四青年科学奖竞赛一等奖, 北京大学
 - 2024 Best Presentation Award, Self-Breakthrough Award, Recognition Award of 2023 Tencent Rhino-Bird Research Elite Program (2023腾讯犀牛鸟精英人才个人风采奖，突破进取奖，优秀奖), Tencent Inc.
 - 2024 Ubiquant Scholarship (九坤奖学金), Peking University
