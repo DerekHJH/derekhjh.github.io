@@ -7,6 +7,10 @@ redirect_from:
   - /work
 ---
 
+* Fall 2025: Research Assistant
+  * Xiaomi top talent (on par with ByteDance's TopSeed, Tencent Qingyun program, etc.)
+  * Duties included: Model architecture and infra co-design.
+
 * Spring 2025: Research Assistant
   * Huawei Cloud
   * Duties included: Lead the *Reasoning-Aware Attention Sparsity (RaaS)* Project.
@@ -36,6 +40,10 @@ redirect_from:
   * WeChat of Tencent Inc.
   * Duties included: Lead the *adaptive distributed build* Project.
   * Outcome: System prototype that reduces 30% build costs (of time and hardware resource).
+
+* Winter 2022: Research Assistant
+  * Data/AML of ByteDance.
+  * Duties included: Rewrite Tensorflow models using ByteDance's internal framework.
 
 
 
