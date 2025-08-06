@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * Fall 2025: Research Assistant
-  * Xiaomi top talent (on par with ByteDance's TopSeed, Tencent Qingyun program, etc.)
+  * Xiaomi top talent (on par with ByteDance TopSeed, Tencent Qingyun program, etc.)
   * Duties included: Model architecture and infra co-design.
 
 * Spring 2025: Research Assistant
