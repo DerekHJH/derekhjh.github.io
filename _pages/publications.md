@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
+- <span style="color:#25528f">[preprint]</span> **xDeepServe: Model-as-a-Service on Huawei CloudMatrix384** <span style="color:#25528f"></span>\
+In: arXiv preprint arXiv:2508.02520\
+\[[paper](https://arxiv.org/pdf/2508.02520)\] \[[code]()\]
+
 - <span style="color:#25528f">[preprint]</span> **LLMigrate: Transforming "Lazy" Large Language Models into Efficient Source Code Migrators** <span style="color:#25528f"></span>\
 Yuchen Liu, **Junhao Hu**, Yingdi Shan, Ge Li, Yanzhen Zou, Yihong Dong, Tao Xie\
 In: arXiv preprint arXiv:2503.23791\
