@@ -43,7 +43,7 @@ redirect_from:
 
 * Winter 2022: Research Assistant
   * Data/AML of ByteDance.
-  * Duties included: Rewrite Tensorflow models using ByteDance's internal framework.
+  * Duties included: Rewrite TensorFlow models using ByteDance's internal framework.
 
 
 

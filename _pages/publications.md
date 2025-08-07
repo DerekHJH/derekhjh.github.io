@@ -17,7 +17,7 @@ author_profile: true
 
 
 - <span style="color:#25528f">[preprint]</span> **xDeepServe: Model-as-a-Service on Huawei CloudMatrix384** <span style="color:#25528f"></span>\
-**Junhao Hu**, xDeepServe Team @ Huawei\
+xDeepServe Team @ Huawei\
 In: arXiv preprint arXiv:2508.02520\
 \[[paper](https://arxiv.org/pdf/2508.02520)\] \[[code]()\]
 
