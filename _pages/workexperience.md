@@ -19,7 +19,7 @@ redirect_from:
   * Lead the *adaptive distributed build* Project, which leads to a paper accepted by ASE 2023.
   * Co-lead the *AI-assisted code generation* Project, which leads to a paper accepted by ESEC/FSE 2023.
 
-* **Dec. 2021 - Feb. 2022**: Intern in Data/AML of ByteDance, with Xuan Zou.
+* **Dec. 2021 - Feb. 2022**: Engineer intern in Data/AML of ByteDance, with Xuan Zou.
   * Rewrite TensorFlow models using ByteDance's internal framework.
 
 
