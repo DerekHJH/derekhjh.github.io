@@ -52,7 +52,7 @@ In: arXiv preprint arXiv:?\
 \[[paper]()\] \[[code]()\] -->
 
 
-- <span style="color:#25528f">[ICML 2025]</span> **EPIC: Efficient Position-Independent Context Caching for Serving Large Language Models** <span style="color:#25528f">(CCF-A)</span>\
+- <span style="color:#25528f">[ICML 2025]</span> **EPIC: Efficient Position-Independent Caching for Serving Large Language Models** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
 In: *Proceedings of the 42nd International Conference on Machine Learning, 2025*\
 \[[paper](https://arxiv.org/abs/2410.15332)\] \[[code](https://github.com/DerekHJH/epic)\]
