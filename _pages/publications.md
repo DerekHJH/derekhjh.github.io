@@ -38,7 +38,7 @@ In: *Transactions of Software Engineering, 2025*\
 
 - <span style="color:#25528f">[SCIS 2025]</span> **Cupcleaner: A data cleaning approach for comment updating** <span style="color:#25528f">(CCF-A)</span>\
 Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Junhao Hu**, Yifan Zhao, Lu Zhang\
-In: *Transactions of SCIENCE CHINA Information Sciences*\
+In: *Transactions of SCIENCE CHINA Information Sciences, 2025*\
 \[[paper](https://arxiv.org/abs/2308.06898)\] \[[code](https://github.com/LIANGQINGYUAN/CupCleaner)\]
 
 - <span style="color:#25528f">[ASE 2023]</span> **Predicting Compilation Resources for Adaptive
