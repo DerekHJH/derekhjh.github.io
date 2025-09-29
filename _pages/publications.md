@@ -68,9 +68,9 @@ Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Junhao Hu**, Yifan Zhao, Yizhou Chen, Min
 In: *Transactions of Software Engineering, 2025*\
 \[[paper](https://arxiv.org/abs/2501.12079)\] \[[code]()\]
 
-- <span style="color:#25528f">[preprint]</span> **Cupcleaner: A data cleaning approach for comment updating** <span style="color:#25528f"></span>\
+- <span style="color:#25528f">[SCIS] 2025]</span> **Cupcleaner: A data cleaning approach for comment updating** <span style="color:#25528f">(CCF-A)</span>\
 Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Junhao Hu**, Yifan Zhao, Lu Zhang\
-In: arXiv preprint arXiv:2308.06898\
+In: *Transactions of SCIENCE CHINA Information Sciences*\
 \[[paper](https://arxiv.org/abs/2308.06898)\] \[[code](https://github.com/LIANGQINGYUAN/CupCleaner)\]
 
 - <span style="color:#25528f">[ASE 2023]</span> **Predicting Compilation Resources for Adaptive
