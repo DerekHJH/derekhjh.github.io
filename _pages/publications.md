@@ -20,8 +20,8 @@ author_profile: true
 In: *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025*\
 \[[paper](https://arxiv.org/abs/2502.11147)\] \[[code](https://github.com/DerekHJH/raas)\]
 
-- <span style="color:#25528f">[ATC 2025]</span> **DeepFlow: Serverless Large Language Model Serving at Scales** <span style="color:#25528f">(CCF-A)</span>\
-**Junhao Hu**, Jiang Xu, Zhixia Liu, Yulong He, Yuetao Chen, Gengyuan Dan, Baoquan Zhang, Shining Wan, Zhiyu Dong, Hao Xu, Zhihao Ren, Jiang Liu, Jie Meng, Changhong Liu, Tao Xie, Dayun Lin, Qin Zhang, Yue Yu, Hao Feng, Xusheng Chen, Yizhou Shan\
+- <span style="color:#25528f">[ATC 2025]</span> **SeepServe: Serverless Large Language Model Serving at Scales** <span style="color:#25528f">(CCF-A)</span>\
+**Junhao Hu**, Jiang Xu, Zhixia Liu, Yulong He, Yuetao Chen,  Hao Xu, Jiang Liu, Jie Meng, Baoquan Zhang, Shining Wan, Gengyuan Dan, Zhiyu Dong, Zhihao Ren, Changhong Liu, Tao Xie, Dayun Lin, Qin Zhang, Yue Yu, Hao Feng, Xusheng Chen, Yizhou Shan\
 In: *Proceedings of the 2025 USENIX Annual Technical Conference, 2025*\
 \[[paper](https://arxiv.org/pdf/2501.14417)\] \[[code]()\]
 
