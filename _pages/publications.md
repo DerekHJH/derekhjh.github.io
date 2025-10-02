@@ -27,7 +27,7 @@ In: *Proceedings of the 2025 USENIX Annual Technical Conference, 2025*\
 
 
 - <span style="color:#25528f">[ICML 2025]</span> **EPIC: Efficient Position-Independent Caching for Serving Large Language Models** <span style="color:#25528f">(CCF-A)</span>\
-**Junhao Hu**, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
+**Junhao Hu**, Wenrui Huang, Weidong Wang, Haoyi Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
 In: *Proceedings of the 42nd International Conference on Machine Learning, 2025*\
 \[[paper](https://openreview.net/pdf?id=qjd3ZUiHRT)\] \[[code](https://github.com/DerekHJH/epic)\]
 
