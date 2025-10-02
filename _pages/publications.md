@@ -18,23 +18,23 @@ author_profile: true
 - <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan\
 In: *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025*\
-\[[paper](https://arxiv.org/abs/2502.11147)\] \[[code](https://github.com/DerekHJH/raas)\]
+\[[paper](https://aclanthology.org/2025.findings-acl.131.pdf)\] \[[code](https://github.com/DerekHJH/raas)\]
 
-- <span style="color:#25528f">[ATC 2025]</span> **SeepServe: Serverless Large Language Model Serving at Scales** <span style="color:#25528f">(CCF-A)</span>\
+- <span style="color:#25528f">[ATC 2025]</span> **DeepServe: Serverless Large Language Model Serving at Scales** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Jiang Xu, Zhixia Liu, Yulong He, Yuetao Chen,  Hao Xu, Jiang Liu, Jie Meng, Baoquan Zhang, Shining Wan, Gengyuan Dan, Zhiyu Dong, Zhihao Ren, Changhong Liu, Tao Xie, Dayun Lin, Qin Zhang, Yue Yu, Hao Feng, Xusheng Chen, Yizhou Shan\
 In: *Proceedings of the 2025 USENIX Annual Technical Conference, 2025*\
-\[[paper](https://arxiv.org/pdf/2501.14417)\] \[[code]()\]
+\[[paper](https://www.usenix.org/system/files/atc25-hu-junhao.pdf)\] \[[code]()\]
 
 
 - <span style="color:#25528f">[ICML 2025]</span> **EPIC: Efficient Position-Independent Caching for Serving Large Language Models** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Haoyi Wang, Weidong Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
 In: *Proceedings of the 42nd International Conference on Machine Learning, 2025*\
-\[[paper](https://arxiv.org/abs/2410.15332)\] \[[code](https://github.com/DerekHJH/epic)\]
+\[[paper](https://openreview.net/pdf?id=qjd3ZUiHRT)\] \[[code](https://github.com/DerekHJH/epic)\]
 
 - <span style="color:#25528f">[TSE 2025]</span> **Directional Diffusion-Style Code Editing Pre-training** <span style="color:#25528f">(CCF-A)</span>\
 Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Junhao Hu**, Yifan Zhao, Yizhou Chen, Mingxuan Zhu, Guoqing Wang, Lu Zhang\
 In: *Transactions of Software Engineering, 2025*\
-\[[paper](https://arxiv.org/abs/2501.12079)\] \[[code]()\]
+\[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11096907)\] \[[code]()\]
 
 - <span style="color:#25528f">[SCIS 2025]</span> **Cupcleaner: A data cleaning approach for comment updating** <span style="color:#25528f">(CCF-A)</span>\
 Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Junhao Hu**, Yifan Zhao, Lu Zhang\
