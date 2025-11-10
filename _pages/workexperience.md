@@ -7,7 +7,7 @@ redirect_from:
   - /work
 ---
 
-* **Sep. 2025 - Present**: Research Assistant in Xiaomi top talent (on par with ByteDance TopSeed, Tencent Qingyun, etc.), with Hailin Zhang.
+* **Sep. 2025 - Present**: Research Assistant in Xiaomi top talent (on par with ByteDance TopSeed, Tencent Qingyun, etc.), with Fuli Luo and Hailin Zhang.
   * Lead the *Model architecture and infra co-design* project.
 
 * **July 2024 - Aug. 2025**: Research Assistant in Huawei Cloud, with Yizhou Shan.

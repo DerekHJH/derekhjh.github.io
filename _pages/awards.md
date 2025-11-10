@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /award
 ---
+- 2025 Nomination for the Top Ten Academic Achievers Award (学术十杰提名), Peking University
 - 2025 Merit Student (三好学生), Peking University
 - 2025 China National Scholarship (国家奖学金)
 - 2025 Hunyuan Fellowship (混元学者), Tencent Inc.
