@@ -9,15 +9,15 @@ redirect_from:
 - 2025 Nomination for the Top Ten Academic Achievers Award (学术十杰提名), Peking University
 - 2025 Merit Student (三好学生), Peking University
 - 2025 China National Scholarship (国家奖学金)
-- 2025 Hunyuan Fellowship (混元学者), Tencent Inc.
+- 2025 Hunyuan Fellowship (混元学者，又名2025年度中国电子学会-腾讯博士生科研激励计划（混元大模型专项），全国仅17人), Tencent Inc.
 - 2024 《珠联校企，以启山林——四化融合校企交流平台》北京大学第三十二届“挑战杯”系列赛事五四青年科学奖竞赛一等奖, 北京大学
-- 2024 Best Presentation Award, Self-Breakthrough Award, Recognition Award of 2023 Tencent Rhino-Bird Research Elite Program (2023腾讯犀牛鸟精英人才个人风采奖，突破进取奖，优秀奖), Tencent Inc.
+- 2024 Best Presentation Award, Self-Breakthrough Award, Recognition Award of 2023 Tencent Rhino-Bird Research Elite Program (2023腾讯犀牛鸟精英人才个人风采奖，突破进取奖，优秀奖，全国入围55人，全国唯一包揽三项奖), Tencent Inc.
 - 2024 Ubiquant Scholarship (九坤奖学金), Peking University
 - 2024 Excellent Research Award (优秀科研奖), Peking University
 - 2023 Excellent Social Work Award (社会工作奖), Peking University
 - 2022 Outstanding Graduates (优秀毕业生), Nanjing University
 - 2022 Pacemaker to Excellent League Member (优秀共青团员标兵), Nanjing University
-- 2021 Merit Student (江苏省三好学生), Jiangsu Province
+- 2021 Merit Student (江苏省三好学生，全院唯一), Jiangsu Province
 - 2021 Huawei Scholarship (华为奖学金)
 - 2021 Special Scholarship for Undergraduates in Basic Science (基础学科奖学金特等奖), Nanjing University 
 - 2021 Outstanding Student (优秀学生), Nanjing University

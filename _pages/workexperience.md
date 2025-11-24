@@ -13,7 +13,7 @@ redirect_from:
 * **July 2024 - Aug. 2025**: Research Assistant in Huawei Cloud, with Yizhou Shan.
   * Lead the *Positional-Independent Caching (PIC)* Project, which leads to a paper accepted by ICML 2025.
   * Lead the *Reasoning-Aware Attention Sparsity (RaaS)* Project, which leads to a paper accepted by ACL 2025.
-  * Co-Lead the DeepFlow Project, which leads to a paper accepted by ATC 2025.
+  * Co-Lead the DeepServe Project, which leads to a paper accepted by ATC 2025.
 
 * **Mar. 2022 - June 2024**: Research Assistant in WXG of Tencent Inc, with Yuetang Deng and Hailiang Huang
   * Lead the *adaptive distributed build* Project, which leads to a paper accepted by ASE 2023.
