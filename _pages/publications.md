@@ -18,7 +18,7 @@ author_profile: true
 
 - <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
 Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo, Jie Meng, **Junhao Hu**\
-In: *Proceedings of the 23rd USENIX Conference on File and Storage Technologies, 2026*\
+In: *Proceedings of the 24th USENIX Conference on File and Storage Technologies, 2026*\
 \[[paper]()\] \[[code]()\]
 
 - <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(CCF-A)</span>\
