@@ -9,6 +9,7 @@ redirect_from:
 
 * **Sep. 2025 - Present**: Research Assistant in Xiaomi top talent (on par with ByteDance TopSeed, Tencent Qingyun, etc.), with Fuli Luo and Hailin Zhang.
   * Lead the *Model architecture and infra co-design* project.
+  * Lead the *Efficiency-aware context engineering for agents* project.
 
 * **July 2024 - Aug. 2025**: Research Assistant in Huawei Cloud, with Yizhou Shan.
   * Lead the *Positional-Independent Caching (PIC)* Project, which leads to a paper accepted by ICML 2025.
