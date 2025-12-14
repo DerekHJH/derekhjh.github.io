@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 Aha~ I caught you! But thanks for your curiosity for browsing this page (hug hug ...)!
-<img src="../images/thanks.jpg" alt="Thanks" width="300" height="200">
 
-(I robbed the idea of this page from Yue Li's [homepage](https://yuelee.bitbucket.io/personal.html). This guy is marvelous. I love him.)
 
+
+I am also a Gold-Level Coach in Competitive Programming (C++). I am deeply involved in teaching, course development, and content production, with [云睿OI](https://mp.weixin.qq.com/s/-xAtX00sAtgaVmzV9ATt4w) and [西瓜创客](https://www.xiguacity.cn/). I am committed to continually contributing to the education of the next generation. My goal is to bring students cutting-edge knowledge in AI, programming, and related fields.
+
+Below are some of my videos and photos.
+<img src="../images/xigua.JPG" alt="Thanks" width="300" height="200">
