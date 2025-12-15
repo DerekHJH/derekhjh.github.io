@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-**Published Conference/Journal Papers:**\
+**Published Conference/Journal Papers:**
 
 
 - <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
@@ -72,7 +72,7 @@ Yueyang Pan, Yangshen Deng, Wenrui Huang, Musa Unal, **Junhao Hu**, Yujie Ren, Y
 In: arXiv preprint arXiv:?\
 \[[paper]()\] \[[code]()\] -->
 \
-**Technical Reports:**\
+**Technical Reports:**
 
 
 - <span style="color:#25528f">[preprint]</span> **MiMo-V2-Flash Technical Report** <span style="color:#25528f"></span>\
@@ -92,7 +92,7 @@ In: GitHub\
 \[[paper](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf)\] \[[code](https://github.com/XiaomiMiMo/MiMo-Audio)\]
 
 \
-**Unpublished High-Impact Papers:**\
+**Unpublished High-Impact Papers:**
 
 - <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
 Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
