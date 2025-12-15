@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 
+**Published Conference/Journal Papers:**\
+
+
 - <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
 Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo, Jie Meng, **Junhao Hu**\
 In: *Proceedings of the 24th USENIX Conference on File and Storage Technologies, 2026*\
@@ -68,18 +71,33 @@ In: arXiv preprint arXiv:?\
 Yueyang Pan, Yangshen Deng, Wenrui Huang, Musa Unal, **Junhao Hu**, Yujie Ren, Yizhou Shan, Sanidhya Kashyap\
 In: arXiv preprint arXiv:?\
 \[[paper]()\] \[[code]()\] -->
+\
+**Technical Reports:**\
 
+
+- <span style="color:#25528f">[preprint]</span> **MiMo-V2-Flash Technical Report** <span style="color:#25528f"></span>\
+LLM-Core @ Xiaomi\
+In: GitHub\
+\[[paper](https://github.com/xiaomimimo/MiMo-V2-Flash/paper.pdf)\] \[[code](https://github.com/xiaomimimo/MiMo-V2-Flash)\]
 
 - <span style="color:#25528f">[preprint]</span> **xDeepServe: Model-as-a-Service on Huawei CloudMatrix384** <span style="color:#25528f"></span>\
 xDeepServe Team @ Huawei\
 In: arXiv preprint arXiv:2508.02520\
 \[[paper](https://arxiv.org/pdf/2508.02520)\] \[[code]()\]
 
+
 - <span style="color:#25528f">[preprint]</span> **MiMo-Audio: Audio Language Models are Few-Shot Learners** <span style="color:#25528f"></span>\
 LLM-Core @ Xiaomi\
 In: GitHub\
 \[[paper](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf)\] \[[code](https://github.com/XiaomiMiMo/MiMo-Audio)\]
 
+\
+**Unpublished High-Impact Papers:**\
+
+- <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
+Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
+In: arXiv preprint arXiv:2406.17565\
+\[[paper](https://arxiv.org/abs/2406.17565)\] \[[code]()\]
 
 - <span style="color:#25528f">[preprint]</span> **MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving** <span style="color:#25528f"></span>\
 Shiju Zhao, **Junhao Hu**, Rongxiao Huang, Jiaqi Zheng, Guihai Chen\
@@ -91,7 +109,3 @@ Yuchen Liu, **Junhao Hu**, Yingdi Shan, Ge Li, Yanzhen Zou, Yihong Dong, Tao Xie
 In: arXiv preprint arXiv:2503.23791\
 \[[paper](https://arxiv.org/abs/2503.23791)\] \[[code]()\]
 
-- <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
-Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
-In: arXiv preprint arXiv:2406.17565\
-\[[paper](https://arxiv.org/abs/2406.17565)\] \[[code]()\]

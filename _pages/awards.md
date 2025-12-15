@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /award
 ---
+- 2025 中国科协青年科技人才培育工程博士生专项计划（资助金额4万元），中国科协
 - 2025 国家自然科学基金委员会青年学生基础研究项目（博士研究生）（资助金额30万元，北京大学软件方向当年唯一），国家自然科学基金委员会
 - 2025 Nomination for the Top Ten Academic Achievers Award (学术十杰提名), Peking University
 - 2025 Merit Student (三好学生), Peking University
