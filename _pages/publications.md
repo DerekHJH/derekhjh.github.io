@@ -78,7 +78,7 @@ In: arXiv preprint arXiv:?\
 - <span style="color:#25528f">[preprint]</span> **MiMo-V2-Flash Technical Report** <span style="color:#25528f"></span>\
 LLM-Core @ Xiaomi\
 In: GitHub\
-\[[paper](https://github.com/xiaomimimo/MiMo-V2-Flash/paper.pdf)\] \[[code](https://github.com/xiaomimimo/MiMo-V2-Flash)\]
+\[[paper](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf)\] \[[code](https://github.com/xiaomimimo/MiMo-V2-Flash)\]
 
 - <span style="color:#25528f">[preprint]</span> **xDeepServe: Model-as-a-Service on Huawei CloudMatrix384** <span style="color:#25528f"></span>\
 xDeepServe Team @ Huawei\
