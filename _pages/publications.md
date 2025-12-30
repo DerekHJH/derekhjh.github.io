@@ -76,17 +76,17 @@ In: arXiv preprint arXiv:?\
 
 
 - <span style="color:#25528f">[preprint]</span> **MiMo-V2-Flash Technical Report** <span style="color:#25528f"></span>\
-LLM-Core @ Xiaomi\
+**Junhao Hu (Core contributor in author list)**, LLM-Core @ Xiaomi\
 In: GitHub\
 \[[paper](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf)\] \[[code](https://github.com/xiaomimimo/MiMo-V2-Flash)\]
 
 - <span style="color:#25528f">[preprint]</span> **MiMo-Audio: Audio Language Models are Few-Shot Learners** <span style="color:#25528f"></span>\
-LLM-Core @ Xiaomi\
+**Junhao Hu (Contributor in author list)**, LLM-Core @ Xiaomi\
 In: GitHub\
 \[[paper](https://github.com/XiaomiMiMo/MiMo-Audio/blob/main/MiMo-Audio-Technical-Report.pdf)\] \[[code](https://github.com/XiaomiMiMo/MiMo-Audio)\]
 
 - <span style="color:#25528f">[preprint]</span> **xDeepServe: Model-as-a-Service on Huawei CloudMatrix384** <span style="color:#25528f"></span>\
-xDeepServe Team @ Huawei\
+**Junhao Hu (Core contributor in author list)**, xDeepServe Team @ Huawei\
 In: arXiv preprint arXiv:2508.02520\
 \[[paper](https://arxiv.org/pdf/2508.02520)\] \[[code]()\]
 
