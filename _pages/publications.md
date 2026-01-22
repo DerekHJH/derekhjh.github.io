@@ -94,6 +94,11 @@ In: arXiv preprint arXiv:2508.02520\
 \
 **Unpublished High-Impact Papers:**
 
+- <span style="color:#25528f">[preprint]</span> **Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage** <span style="color:#25528f"></span>\
+**Junhao Hu**, Fangze Li, Mingtao Xu, Feifan Meng, Shiju Zhao, Tiancheng Hu, Ting Peng, Anmin Liu, Wenrui Huang, Chenxu Liu, Ziyue Hua, Tao Xie\
+In: arXiv preprint arXiv:2601.03043\
+\[[paper](https://arxiv.org/abs/2601.03043)\] \[[code]()\]
+
 - <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
 Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
 In: arXiv preprint arXiv:2406.17565\
