@@ -20,7 +20,7 @@ author_profile: true
 
 
 - <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
-Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo, Jie Meng, **Junhao Hu**\
+Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo, **Junhao Hu**, Jie Meng\
 In: *Proceedings of the 24th USENIX Conference on File and Storage Technologies, 2026*\
 \[[paper]()\] \[[code]()\]
 
