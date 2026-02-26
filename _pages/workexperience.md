@@ -7,7 +7,7 @@ redirect_from:
   - /work
 ---
 
-* **Sep. 2025 - Present**: Research Assistant in Xiaomi top talent (on par with ByteDance TopSeed, Tencent Qingyun, etc.), with Fuli Luo and Hailin Zhang.
+* **Aug. 2025 - Mar. 2026**: Research Assistant in Xiaomi top talent (on par with ByteDance TopSeed, Tencent Qingyun, etc.), with Fuli Luo and Hailin Zhang.
   * Co-lead *Model-Arch and Infra Co-Design* Project, which leads to key sections of the MiMo-V2-Flash Technical Report on kernel profiling, MTP layer selection, and inference hardware estimation.
   * Lead the *Efficiency-Aware Context Engineering* Project, which leads to key sections of the MiMo-V2-Flash Technical Report on context management and agent memory.
 
@@ -19,9 +19,6 @@ redirect_from:
 * **Mar. 2022 - June 2024**: Research Assistant in WXG of Tencent Inc, with Yuetang Deng and Hailiang Huang
   * Lead the *adaptive distributed build* Project, which leads to a paper accepted by ASE 2023.
   * Co-lead the *AI-assisted code generation* Project, which leads to a paper accepted by ESEC/FSE 2023.
-
-* **Dec. 2021 - Feb. 2022**: Engineer intern in Data/AML of ByteDance, with Xuan Zou.
-  * Rewrite TensorFlow models using ByteDance's internal framework.
 
 
 
