@@ -22,7 +22,7 @@ author_profile: true
 - <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
 Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo, **Junhao Hu**, Jie Meng\
 In: *Proceedings of the 24th USENIX Conference on File and Storage Technologies, 2026*\
-\[[paper]()\] \[[code]()\]
+\[[paper](https://www.usenix.org/conference/fast26/presentation/liu-yang)\] \[[code]()\]
 
 - <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan\
@@ -48,7 +48,7 @@ In: *Transactions of Software Engineering, 2025*\
 - <span style="color:#25528f">[SCIS 2025]</span> **Cupcleaner: A data cleaning approach for comment updating** <span style="color:#25528f">(CCF-A)</span>\
 Qingyuan Liang, Zeyu Sun, Qihao Zhu, **Junhao Hu**, Yifan Zhao, Lu Zhang\
 In: *Transactions of SCIENCE CHINA Information Sciences, 2025*\
-\[[paper](https://arxiv.org/abs/2308.06898)\] \[[code](https://github.com/LIANGQINGYUAN/CupCleaner)\]
+\[[paper](https://www.sciengine.com/SCIS/articleIndex?doi=10.1007/s11432-024-4637-2&scroll=)\] \[[code](https://github.com/LIANGQINGYUAN/CupCleaner)\]
 
 - <span style="color:#25528f">[ASE 2023]</span> **Predicting Compilation Resources for Adaptive
 Build in an Industrial Setting** <span style="color:#25528f">(CCF-A)</span>\
