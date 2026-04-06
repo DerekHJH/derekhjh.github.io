@@ -18,6 +18,11 @@ author_profile: true
 
 **Published Conference/Journal Papers:**
 
+- <span style="color:#25528f">[ACL 2026]</span> **Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage** <span style="color:#25528f">(CCF-A)</span>\
+**Junhao Hu**, Fangze Li, Mingtao Xu, Feifan Meng, Shiju Zhao, Tiancheng Hu, Ting Peng, Anmin Liu, Wenrui Huang, Chenxu Liu, Ziyue Hua, Tao Xie\
+In: arXiv preprint arXiv:2601.03043\
+\[[paper](https://arxiv.org/abs/2601.03043)\] \[[code]()\]
+
 
 - <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
 Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo, **Junhao Hu**, Jie Meng\
@@ -94,15 +99,15 @@ In: arXiv preprint arXiv:2508.02520\
 \
 **Unpublished High-Impact Papers:**
 
-- <span style="color:#25528f">[preprint]</span> **Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage** <span style="color:#25528f"></span>\
-**Junhao Hu**, Fangze Li, Mingtao Xu, Feifan Meng, Shiju Zhao, Tiancheng Hu, Ting Peng, Anmin Liu, Wenrui Huang, Chenxu Liu, Ziyue Hua, Tao Xie\
-In: arXiv preprint arXiv:2601.03043\
-\[[paper](https://arxiv.org/abs/2601.03043)\] \[[code]()\]
-
 - <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
 Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
 In: arXiv preprint arXiv:2406.17565\
 \[[paper](https://arxiv.org/abs/2406.17565)\] \[[code]()\]
+
+- <span style="color:#25528f">[preprint]</span> **You Need an Encoder for Native Position-Independent Caching** <span style="color:#25528f"></span>\
+Shiju Zhao, **Junhao Hu**, Jiaqi Zheng, Guihai Chen\
+In: arXiv preprint arXiv:2602.01519\
+\[[paper](https://arxiv.org/abs/2602.01519)\] \[[code]()\]
 
 - <span style="color:#25528f">[preprint]</span> **MPIC: Position-Independent Multimodal Context Caching System for Efficient MLLM Serving** <span style="color:#25528f"></span>\
 Shiju Zhao, **Junhao Hu**, Rongxiao Huang, Jiaqi Zheng, Guihai Chen\
