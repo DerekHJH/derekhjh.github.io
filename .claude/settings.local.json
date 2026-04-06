@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/derekhjh/derekhjh.github.io/_sass/*.scss)"
+    ]
+  }
+}

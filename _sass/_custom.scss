@@ -1,0 +1,19 @@
+/* Custom ordered list style: [1] [2] [3] instead of 1. 2. 3. */
+.page__content ol {
+  list-style: none;
+  counter-reset: bracket-counter;
+  padding-left: 2.5em;
+
+  > li {
+    counter-increment: bracket-counter;
+    position: relative;
+
+    &::before {
+      content: "[" counter(bracket-counter) "]";
+      position: absolute;
+      left: -2.5em;
+      font-weight: bold;
+      color: #25528f;
+    }
+  }
+}
