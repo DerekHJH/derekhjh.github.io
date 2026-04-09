@@ -18,7 +18,7 @@ author_profile: true
 
 **Published Conference/Journal Papers:**
 
-1. <span style="color:#25528f">[ACL 2026]</span> **Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage** <span style="color:#25528f">(CCF-A)</span>\
+1. <span style="color:#25528f">[ACL 2026]</span> **Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage** <span style="color:#25528f">(Findings)</span>\
 **Junhao Hu**, Fangze Li, Mingtao Xu, Feifan Meng, Shiju Zhao, Tiancheng Hu, Ting Peng, Anmin Liu, Wenrui Huang, Chenxu Liu, Ziyue Hua, Tao Xie\
 In: arXiv preprint arXiv:2601.03043\
 \[[paper](https://arxiv.org/abs/2601.03043)\] \[[code]()\]
@@ -28,15 +28,16 @@ Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo,
 In: *Proceedings of the 24th USENIX Conference on File and Storage Technologies, 2026*\
 \[[paper](https://www.usenix.org/conference/fast26/presentation/liu-yang)\] \[[code]()\]
 
-1. <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(CCF-A)</span>\
-**Junhao Hu**, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan\
-In: *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025*\
-\[[paper](https://aclanthology.org/2025.findings-acl.131.pdf)\] \[[code](https://github.com/DerekHJH/raas)\]
 
 1. <span style="color:#25528f">[ATC 2025]</span> **DeepServe: Serverless Large Language Model Serving at Scales** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Jiang Xu, Zhixia Liu, Yulong He, Yuetao Chen,  Hao Xu, Jiang Liu, Jie Meng, Baoquan Zhang, Shining Wan, Gengyuan Dan, Zhiyu Dong, Zhihao Ren, Changhong Liu, Tao Xie, Dayun Lin, Qin Zhang, Yue Yu, Hao Feng, Xusheng Chen, Yizhou Shan\
 In: *Proceedings of the 2025 USENIX Annual Technical Conference, 2025*\
 \[[paper](https://www.usenix.org/system/files/atc25-hu-junhao.pdf)\] \[[code]()\]
+
+1. <span style="color:#25528f">[ACL 2025]</span> **RaaS: Reasoning-Aware Attention Sparsity for Efficient Long-Decoding Inference** <span style="color:#25528f">(Findings)</span>\
+**Junhao Hu**, Wenrui Huang, Weidong Wang, Zhenwen Li, Tiancheng Hu, Zhixia Liu, Xusheng Chen, Tao Xie, Yizhou Shan\
+In: *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025*\
+\[[paper](https://aclanthology.org/2025.findings-acl.131.pdf)\] \[[code](https://github.com/DerekHJH/raas)\]
 
 1. <span style="color:#25528f">[ICML 2025]</span> **EPIC: Efficient Position-Independent Caching for Serving Large Language Models** <span style="color:#25528f">(CCF-A)</span>\
 **Junhao Hu**, Wenrui Huang, Weidong Wang, Haoyi Wang, Tiancheng Hu, Qin Zhang, Hao Feng, Xusheng Chen, Yizhou Shan, Tao Xie\
