@@ -7,6 +7,9 @@ redirect_from:
   - /work
 ---
 
+* **Apr. 2026 - Present**: Research Assistant in Hunyuan, Tencent (Qingyun Project), with Xusheng Chen.
+  * Lead the *Model Performance Calculator* Project.
+
 * **Aug. 2025 - Mar. 2026**: Research Assistant in Xiaomi top talent, with Fuli Luo and Hailin Zhang.
   * Co-lead *Model-Arch and Infra Co-Design* Project, which leads to key sections of the MiMo-V2 (Flash/Pro) Technical Report on kernel profiling, MTP layer selection, and inference hardware estimation.
   * Lead the *Efficiency-Aware Context Engineering* Project, which leads to key sections of the MiMo-V2 (Flash/Pro) Technical Report on context management and agent memory.
@@ -16,7 +19,7 @@ redirect_from:
   * Lead the *Reasoning-Aware Attention Sparsity (RaaS)* Project, which leads to a paper accepted by ACL 2025.
   * Co-Lead the DeepServe Project, which leads to a paper accepted by ATC 2025.
 
-* **Mar. 2022 - June 2024**: Research Assistant in WXG of Tencent Inc, with Yuetang Deng and Hailiang Huang
+* **Mar. 2022 - June 2024**: Research Assistant in WXG, Tencent Inc, with Yuetang Deng and Hailiang Huang
   * Lead the *adaptive distributed build* Project, which leads to a paper accepted by ASE 2023.
   * Co-lead the *AI-assisted code generation* Project, which leads to a paper accepted by ESEC/FSE 2023.
 
