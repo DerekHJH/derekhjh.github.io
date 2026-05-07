@@ -7,9 +7,9 @@ redirect_from:
   - /work
 ---
 
-* **Aug. 2025 - Mar. 2026**: Research Assistant in Xiaomi top talent (on par with ByteDance TopSeed, Tencent Qingyun, etc.), with Fuli Luo and Hailin Zhang.
-  * Co-lead *Model-Arch and Infra Co-Design* Project, which leads to key sections of the MiMo-V2-Flash Technical Report on kernel profiling, MTP layer selection, and inference hardware estimation.
-  * Lead the *Efficiency-Aware Context Engineering* Project, which leads to key sections of the MiMo-V2-Flash Technical Report on context management and agent memory.
+* **Aug. 2025 - Mar. 2026**: Research Assistant in Xiaomi top talent, with Fuli Luo and Hailin Zhang.
+  * Co-lead *Model-Arch and Infra Co-Design* Project, which leads to key sections of the MiMo-V2 (Flash/Pro) Technical Report on kernel profiling, MTP layer selection, and inference hardware estimation.
+  * Lead the *Efficiency-Aware Context Engineering* Project, which leads to key sections of the MiMo-V2 (Flash/Pro) Technical Report on context management and agent memory.
 
 * **July 2024 - Aug. 2025**: Research Assistant in Huawei Cloud, with Yizhou Shan.
   * Lead the *Positional-Independent Caching (PIC)* Project, which leads to a paper accepted by ICML 2025.
