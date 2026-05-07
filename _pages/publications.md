@@ -20,7 +20,7 @@ author_profile: true
 
 1. <span style="color:#25528f">[ACL 2026]</span> **Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage** <span style="color:#25528f">(Findings)</span>\
 **Junhao Hu**, Fangze Li, Mingtao Xu, Feifan Meng, Shiju Zhao, Tiancheng Hu, Ting Peng, Anmin Liu, Wenrui Huang, Chenxu Liu, Ziyue Hua, Tao Xie\
-In: arXiv preprint arXiv:2601.03043\
+In: *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026*\
 \[[paper](https://arxiv.org/abs/2601.03043)\] \[[code]()\]
 
 1. <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
