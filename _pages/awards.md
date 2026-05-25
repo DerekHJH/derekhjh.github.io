@@ -6,14 +6,14 @@ author_profile: true
 redirect_from:
   - /award
 ---
-1. 2026 《基于算法-系统协同的位置无关KV缓存》北京大学第三十四届”挑战杯”系列赛事五四青年科学奖特等奖（全校仅41各团队，计算机学院唯一）, 北京大学
+1. 2026 《基于算法-系统协同的位置无关KV缓存》北京大学第三十四届"挑战杯"系列赛事五四青年科学奖特等奖（全校仅41位，计算机学院唯一）, 北京大学
 1. 2025 Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST（中国科协青年科技人才培育工程博士生专项计划，中国科学技术协会，资助金额4万元）
 1. 2025 国家自然科学基金委员会青年学生基础研究项目（博士研究生）（资助金额30万元，北京大学软件方向当年唯一），国家自然科学基金委员会
 1. 2025 Nomination for the Top Ten Academic Achievers Award (学术十杰提名), Peking University
 1. 2025 Merit Student (三好学生), Peking University
 1. 2025 China National Scholarship (国家奖学金)
 1. 2025 Hunyuan Fellowship (混元学者，又名2025年度中国电子学会-腾讯博士生科研激励计划（混元大模型专项），全国仅23人，资助金额10万元), Tencent Inc.
-1. 2024 《珠联校企，以启山林——四化融合校企交流平台》北京大学第三十二届”挑战杯”系列赛事五四青年科学奖竞赛一等奖, 北京大学
+1. 2024 《珠联校企，以启山林——四化融合校企交流平台》北京大学第三十二届"挑战杯"系列赛事五四青年科学奖竞赛一等奖, 北京大学
 1. 2024 Best Presentation Award, Self-Breakthrough Award, Recognition Award of 2023 Tencent Rhino-Bird Research Elite Program (2023腾讯犀牛鸟精英人才个人风采奖，突破进取奖，优秀奖，全国入围55人，全国唯一包揽三项奖)
 1. 2024 Ubiquant Scholarship (九坤奖学金), Peking University
 1. 2024 Excellent Research Award (优秀科研奖), Peking University
