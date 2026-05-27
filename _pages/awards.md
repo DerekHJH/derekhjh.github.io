@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /award
 ---
+1. 2026 Principal's Scholarship (校长奖学金), Peking University
 1. 2026 《基于算法-系统协同的位置无关KV缓存》北京大学第三十四届"挑战杯"系列赛事五四青年科学奖特等奖（全校仅41位，计算机学院唯一）, 北京大学
 1. 2025 Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST（中国科协青年科技人才培育工程博士生专项计划，中国科学技术协会，资助金额4万元）
 1. 2025 国家自然科学基金委员会青年学生基础研究项目（博士研究生）（资助金额30万元，北京大学软件方向当年唯一），国家自然科学基金委员会
