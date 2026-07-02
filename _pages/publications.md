@@ -18,6 +18,11 @@ author_profile: true
 
 **Published Conference/Journal Papers:**
 
+1. <span style="color:#25528f">[SC 2026]</span> **FluidGPU: Fine-Grained Kernel Disaggregation for Large Model Inference on Heterogeneous GPUs** <span style="color:#25528f">(Findings)</span>\
+Tiancheng Hu, Jin Qin, Lei Chen, **Junhao Hu**, Yuzheng Wang, Mingxing Zhang, Chunwei Xia, Yizhou Shan, Huimin Cui, Ting Cao, Zheng Wang, Xie Tao, Chenxi Wang\
+In: *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, 2026*\
+\[[paper]()\] \[[code]()\]
+
 1. <span style="color:#25528f">[ACL 2026]</span> **Lil: Less is Less When Applying Post-Training Sparse-Attention Algorithms in Long-Decode Stage** <span style="color:#25528f">(Findings)</span>\
 **Junhao Hu**, Fangze Li, Mingtao Xu, Feifan Meng, Shiju Zhao, Tiancheng Hu, Ting Peng, Anmin Liu, Wenrui Huang, Chenxu Liu, Ziyue Hua, Tao Xie\
 In: *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026*\
@@ -102,6 +107,11 @@ In: arXiv preprint arXiv:2508.02520\
 Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
 In: arXiv preprint arXiv:2406.17565\
 \[[paper](https://arxiv.org/abs/2406.17565)\] \[[code]()\]
+
+1. <span style="color:#25528f">[preprint]</span> **RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention** <span style="color:#25528f"></span>\
+Yang Liu, Zhaokai Luo, Huayi Jin, Zhiyong Wang, Ruozhou He, Boyu Wang, Guanjie Chen, **Junhao Hu**\
+In: arXiv preprint arXiv:2606.06256\
+\[[paper](https://arxiv.org/abs/2606.06256)\] \[[code](https://github.com/rednote-machine-learning/RedKnot)\]
 
 1. <span style="color:#25528f">[preprint]</span> **You Need an Encoder for Native Position-Independent Caching** <span style="color:#25528f"></span>\
 Shiju Zhao, **Junhao Hu**, Jiaqi Zheng, Guihai Chen\
