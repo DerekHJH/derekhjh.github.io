@@ -16,4 +16,4 @@ I am also a Gold-Level Coach in Competitive Programming (C++). I am deeply invol
 
 I am also a Co-founder and Chief Architect of PrismShadow. Our mission is to build better self-evolving agents in vertical domains, including related benchmarks and agent harnesses. The vertical domains may include GDPR-related fields such as healthcare, finance, legal, data engineering, and more. We have already secured our first round of funding and are currently looking at a second round. Feel free to reach out!
 
-<img src="../images/prismshadow.JPG" alt="Thanks" width="300" height="200">
+<img src="../images/prismshadow.jpg" alt="Thanks" width="300" height="200">
