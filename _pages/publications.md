@@ -113,6 +113,16 @@ Yang Liu, Zhaokai Luo, Huayi Jin, Zhiyong Wang, Ruozhou He, Boyu Wang, Guanjie C
 In: arXiv preprint arXiv:2606.06256\
 \[[paper](https://arxiv.org/abs/2606.06256)\] \[[code](https://github.com/rednote-machine-learning/RedKnot)\]
 
+1. <span style="color:#25528f">[preprint]</span> **HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching** <span style="color:#25528f"></span>\
+Yifei Liu, Juntong Wu, Yang Liu, **Junhao Hu (Corresponding Author)**, Minghao Li, Xiaoxu Chen, Weihang Chen\
+In: arXiv preprint arXiv:2607.01299\
+\[[paper](https://arxiv.org/abs/2607.01299)\] \[[code]()\]
+
+1. <span style="color:#25528f">[preprint]</span> **Akashic: A Low-Overhead LLM Inference Service with MemAttention** <span style="color:#25528f"></span>\
+Yang Liu, Zhaokai Luo, Huayi Jin, Ruozhou He, Chenchen Hong, Zhiyong Wang, Yifei Liu, Yunfei Gu, Chentao Wu, **Junhao Hu**\
+In: arXiv preprint arXiv:\
+\[[paper]()\] \[[code]()\]
+
 1. <span style="color:#25528f">[preprint]</span> **You Need an Encoder for Native Position-Independent Caching** <span style="color:#25528f"></span>\
 Shiju Zhao, **Junhao Hu**, Jiaqi Zheng, Guihai Chen\
 In: arXiv preprint arXiv:2602.01519\
