@@ -120,8 +120,8 @@ In: arXiv preprint arXiv:2607.01299\
 
 1. <span style="color:#25528f">[preprint]</span> **Akashic: A Low-Overhead LLM Inference Service with MemAttention** <span style="color:#25528f"></span>\
 Yang Liu, Zhaokai Luo, Huayi Jin, Ruozhou He, Chenchen Hong, Zhiyong Wang, Yifei Liu, Yunfei Gu, Chentao Wu, **Junhao Hu**\
-In: arXiv preprint arXiv:\
-\[[paper]()\] \[[code]()\]
+In: arXiv preprint arXiv:2607.05708\
+\[[paper](https://arxiv.org/abs/2607.05708)\] \[[code]()\]
 
 1. <span style="color:#25528f">[preprint]</span> **You Need an Encoder for Native Position-Independent Caching** <span style="color:#25528f"></span>\
 Shiju Zhao, **Junhao Hu**, Jiaqi Zheng, Guihai Chen\
