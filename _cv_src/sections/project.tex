@@ -1,0 +1,40 @@
+\section{Selected Open-Source Projects}
+\begin{enumerate}[label={[\arabic*]}]
+% \item \textbf{SSA and data flow analysis framework} \url{https://github.com/DerekHJH/cs380c}
+% \begin{itemize}
+% \item Realize a language translator from three-address code to C.
+% \item Realize SSA converter.
+% \item Build the dataflow framework for live variable analysis, reaching definition analysis, and common expression analysis.
+% \end{itemize}
+
+
+\item \textbf{GDPevo} 
+\url{https://prism-shadow.github.io/GDPevo/}
+\begin{itemize}
+\item The first benchmark for evaluating agent self-evolution on economically valuable (or GDP-related) tasks. It is both an automated benchmark construction process and the output of that process: an out-of-the-box benchmark.
+\item We tested the self-evolution capability of three different agents. Test-set accuracy generally improved by 17-22\%, and two of the agents also showed significant reductions in token consumption.
+\end{itemize}
+
+\item \textbf{RedKnot} 
+\url{https://github.com/rednote-machine-learning/RedKnot} (\textbf{1.7k stars})
+\begin{itemize}
+\item We implemented a long-context inference engine on top of SGLang, with the core idea that not every attention head needs the full KV, and not every token needs to go through the full FFN. 
+\item While staying at near-lossless accuracy (in some scenarios even better than the dense baseline), it reduces long-context prefill FLOPs by roughly 50\%–70\% and delivers 1.35x–2.2x TTFT speedup (the gains grow larger as context length increases).
+\end{itemize}
+
+
+% \item \textbf{C minus compiler} 
+% \url{https://github.com/DerekHJH/compilePA}
+% \begin{itemize}
+% \item Write a compiler that translates a subset of the C language into MIPS machine code. 
+% \item Include syntax/semantic error analysis, intermediate code generation, and optimization.
+% \end{itemize}
+
+
+% \item \textbf{miniOS} \url{https://github.com/DerekHJH/os-workbench}
+% \begin{itemize}
+% \item Write a thread-based mini operating system.
+% \item Include memory allocation, spinning locks, semaphores, a file system, and a FIFO scheduling policy.
+% \item Include a reconstructor FAT files, and a simple but crash-consistent key-value database.
+% \end{itemize}
+\end{enumerate}
