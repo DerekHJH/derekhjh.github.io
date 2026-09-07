@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Open-Source Projects"
+    url: /projects/
   - title: "Publications"
     url: /publications/
   - title: "Awards"

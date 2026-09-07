@@ -103,6 +103,11 @@ In: arXiv preprint arXiv:2508.02520\
 \
 **Unpublished High-Impact Papers:**
 
+1. <span style="color:#25528f">[preprint]</span> **GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks** <span style="color:#25528f"></span>\
+Leijun Zhou, Zhihao Liu, Xiang Qu, Chenxu Liu, Yifei Liu, Yanke Yu, Jingzhe Xu, Xuejun Wu, Buyue Qian, Xi Chen, Yaowei Zheng, **Junhao Hu (Corresponding Author)**\
+In: arXiv preprint arXiv:2608.03764\
+\[[paper](https://arxiv.org/abs/2608.03764)\] \[[code]()\]
+
 1. <span style="color:#25528f">[preprint]</span> **MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool** <span style="color:#25528f"></span>\
 Cunchen Hu, Heyang Huang, **Junhao Hu**, Jiang Xu, Xusheng Chen, Tao Xie, Chenxi Wang, Sa Wang, Yungang Bao, Ninghui Sun, Yizhou Shan\
 In: arXiv preprint arXiv:2406.17565\
