@@ -7,8 +7,9 @@ redirect_from:
   - /work
 ---
 
-<!-- * **Apr. 2026 - Present**: Research Assistant in Hunyuan, Tencent (Qingyun Project), with Xusheng Chen.
-  * Lead the *Model Performance Calculator* Project, which leads to the final architecture design of Hy4. -->
+* **Apr. 2026 - Present**: Research Assistant in Hunyuan, Tencent (Qingyun Project), with Xusheng Chen and Kechi Zhang.
+  * Lead the *Model Performance Calculator* Project, which leads to the final architecture design of Hy4.
+  * Lead the *long-horizon agentic training* Project.
 
 * **Aug. 2025 - Mar. 2026**: Research Assistant in Xiaomi top talent, with Fuli Luo and Hailin Zhang.
   * Co-lead *Model-Arch and Infra Co-Design* Project, which leads to key sections of the MiMo-V2 (Flash/Pro) Technical Report on kernel profiling, MTP layer selection, and inference hardware estimation.
