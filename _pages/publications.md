@@ -18,7 +18,7 @@ author_profile: true
 
 **Published Conference/Journal Papers:**
 
-1. <span style="color:#25528f">[SC 2026]</span> **FluidGPU: Fine-Grained Kernel Disaggregation for Large Model Inference on Heterogeneous GPUs** <span style="color:#25528f">(Findings)</span>\
+1. <span style="color:#25528f">[SC 2026]</span> **FluidGPU: Fine-Grained Kernel Disaggregation for Large Model Inference on Heterogeneous GPUs** <span style="color:#25528f"></span>\
 Tiancheng Hu, Jin Qin, Lei Chen, **Junhao Hu**, Yuzheng Wang, Mingxing Zhang, Chunwei Xia, Yizhou Shan, Huimin Cui, Ting Cao, Zheng Wang, Xie Tao, Chenxi Wang\
 In: *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, 2026*\
 \[[paper]()\] \[[code]()\]
