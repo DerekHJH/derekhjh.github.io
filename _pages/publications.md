@@ -28,6 +28,11 @@ In: *Proceedings of the International Conference for High Performance Computing,
 In: *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, pages 1898-1912, 2026*\
 \[[paper](https://aclanthology.org/2026.findings-acl.91/)\] \[[code]()\]
 
+1. <span style="color:#25528f">[ATC 2026]</span> **HAPIC: Position-Independent Caching for Hybrid-Attention LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
+Yifei Liu, Juntong Wu, Yang Liu, **Junhao Hu (Corresponding Author)**, Minghao Li, Xiaoxu Chen, Weihang Chen\
+In: *Proceedings of the 2026 ACM SIGOPS Annual Technical Conference, 2026*\
+\[[paper](https://arxiv.org/abs/2607.01299)\] \[[code]()\]
+
 1. <span style="color:#25528f">[FAST 2026]</span> **CacheSlide: Unlocking Cross Position-Aware KV Cache Reuse for Accelerating LLM Serving** <span style="color:#25528f">(CCF-A)</span>\
 Yang Liu, Yunfei Gu, Liqiang Zhang, Chentao Wu, Guangtao Xue, Jie Li, Minyi Guo, **Junhao Hu**, Jie Meng\
 In: *Proceedings of the 24th USENIX Conference on File and Storage Technologies, pages 83-99, 2026*\
@@ -117,11 +122,6 @@ In: arXiv preprint arXiv:2406.17565\
 Yang Liu, Zhaokai Luo, Huayi Jin, Zhiyong Wang, Ruozhou He, Boyu Wang, Guanjie Chen, **Junhao Hu**\
 In: arXiv preprint arXiv:2606.06256\
 \[[paper](https://arxiv.org/abs/2606.06256)\] \[[code](https://github.com/rednote-machine-learning/RedKnot)\]
-
-1. <span style="color:#25528f">[preprint]</span> **HYPIC: Accelerating Hybrid-Attention LLM Serving with Position-Independent Caching** <span style="color:#25528f"></span>\
-Yifei Liu, Juntong Wu, Yang Liu, **Junhao Hu (Corresponding Author)**, Minghao Li, Xiaoxu Chen, Weihang Chen\
-In: arXiv preprint arXiv:2607.01299\
-\[[paper](https://arxiv.org/abs/2607.01299)\] \[[code]()\]
 
 1. <span style="color:#25528f">[preprint]</span> **Akashic: A Low-Overhead LLM Inference Service with MemAttention** <span style="color:#25528f"></span>\
 Yang Liu, Zhaokai Luo, Huayi Jin, Ruozhou He, Chenchen Hong, Zhiyong Wang, Yifei Liu, Yunfei Gu, Chentao Wu, **Junhao Hu**\
