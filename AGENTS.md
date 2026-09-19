@@ -43,3 +43,21 @@ pdflatex -interaction=nonstopmode -halt-on-error main.tex   # run twice for refs
 Do NOT run `git commit` or `git push` until Junhao (the repo owner) has
 personally reviewed the changes and confirmed. Make the edits, report what was
 done, and wait for his go-ahead. This applies even when the work looks complete.
+
+## 4. Before every commit/push, guarantee `files/cv.pdf` is up to date
+
+Whenever you commit and push, the committed `files/cv.pdf` MUST be the freshly
+recompiled version reflecting the current `_cv_src/**` source — never a stale
+build. Make it a habit: **every time you touch the CV, recompile it and move the
+result into `files/`** (see rule 2), so the PDF is never left behind.
+
+Before committing, verify the published PDF matches the source build, e.g.:
+
+```bash
+cd _cv_src && pdflatex -interaction=nonstopmode -halt-on-error main.tex   # twice
+/bin/cp -f main.pdf ../files/cv.pdf
+md5sum _cv_src/main.pdf ../files/cv.pdf   # the two hashes must be identical
+```
+
+If the hashes differ (or you skipped the recompile), do not commit until the
+latest PDF is in place.
