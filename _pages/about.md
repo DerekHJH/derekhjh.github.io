@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hooray~ you caught me! I am Junhao Hu, a fifth-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/). And I am lucky to work with and advised by Prof. [Chenxi Wang](https://wangchenxi7.github.io/home/), Prof. [Yizhou Shan](http://lastweek.io/), [Hailin Zhang](https://hugozhl.github.io/) (PKU), [Kechi Zhang](https://zkcpku.github.io/) (PKU), and [Xusheng Chen](https://michaelxschen.github.io/) (HKU).
+Hooray~ you caught me! I am Junhao Hu, a fifth-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/). And I am lucky to work with and advised by Prof. [Chenxi Wang](https://wangchenxi7.github.io/home/), Prof. [Yizhou Shan](http://lastweek.io/), [Hailin Zhang](https://hugozhl.github.io/), [Kechi Zhang](https://zkcpku.github.io/), and [Xusheng Chen](https://michaelxschen.github.io/).
 
 I am currently an RSI researcher at Tencent Hunyuan, working on **RSI for harness and infrastructure**. Feel free to [reach out](mailto:junhaohu@stu.pku.edu.cn) for discussion or collaboration!
 
