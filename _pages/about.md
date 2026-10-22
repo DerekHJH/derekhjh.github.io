@@ -10,7 +10,9 @@ redirect_from:
 
 Hooray~ you caught me! I am Junhao Hu, a fourth-year Ph.D. student at [School of Computer Science, Peking University](https://cs.pku.edu.cn/), advised by Prof. [Tao Xie](https://taoxiease.github.io/). And I am lucky to work with and advised by Prof. [Chenxi Wang](https://wangchenxi7.github.io/home/) and [Yizhou Shan](http://lastweek.io/).
 
-My main research interests span across machine learning algorithms and systems, software engineering, and their intersections. Recently, I am designing new systems and algorithms to improve the performance, efficiency, and reliability of Large Language Model (LLM) inference systems.
+My research centers on **algorithm–infrastructure co-design** for LLMs and agents. I started with **Infra4AI**: optimizing inference infrastructure through serving systems, model–infra co-design, sparse attention, and position-independent caching (e.g., EPIC, DeepServe, RedKnot, Hy4, MiMo-V2), and then building agent harnesses and memory systems (e.g., PenguinHarness, Akashic). As AI grows more capable, building infrastructure by hand is no longer enough: rather than compete with AI, I train AI to build better infrastructure (**AI4Infra**). I now work on **RSI for harness**: training models to absorb harness capabilities such as compaction, skills, and self-evolution, and to write and evolve harnesses themselves (e.g., GDPevo, Awesome-RSI). Next, I will extend AI4Infra to inference infrastructure and, later, training infrastructure.
+
+<p align="center"><img src="/images/research-map.svg" alt="Research map" style="width:100%; max-width:760px;"></p>
 
 I got my bachelor's degree from [Kuang Yaming Honors School, Nanjing University](https://dii.nju.edu.cn/) in 2022, where I did research on Compilation Resource Prediction, advised by Prof. [Yanyan Jiang](https://jyywiki.cn/).
 
