@@ -68,7 +68,9 @@
   chips: ("PenguinHarness", "Hunyuan Harness", "Akashic"))
 #quadrant(xm + gap / 2, y0, violet,
   chips: ("GDPevo", "Awesome-RSI", "Hunyuan RSI"), tag: "NOW")
-#quadrant(x0, y0, blue, tag: "NEXT", future: true)
+#quadrant(x0, y0, blue, tag: "MAYBE", future: true)
+#place(top + left, dx: x0, dy: y0, box(width: qw, height: qh,
+  align(center + horizon, text(size: 28pt, weight: "bold", fill: blue.edge)[?])))
 
 // Axes: double-headed, extending slightly past the quadrants.
 #let ext = 0.3cm
